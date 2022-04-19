@@ -1,0 +1,3 @@
+rootProject.name = "hulupay-android-core"
+include ':app'
+include ':hulupay-android-core-lb'

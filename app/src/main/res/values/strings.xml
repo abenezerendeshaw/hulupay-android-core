@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">hulupay-android-core</string>
+    <string name="request_serviceproviders">Request Providers</string>
+    <string name="loginrequest">Request Token</string>
+    <string name="hoversdk">HoverSdk</string>
+</resources>
